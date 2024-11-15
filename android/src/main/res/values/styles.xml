@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Splash Screen teması -->
+    <style name="YBSplashTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="android:windowBackground">@color/yb_background</item>
+        <item name="android:statusBarColor">@color/yb_status_bar</item>
+        <item name="android:windowLightStatusBar">true</item>
+        <item name="android:windowFullscreen">false</item>
+        <item name="android:windowTranslucentNavigation">false</item>
+    </style>
+
+    <!-- Koyu tema için Splash Screen teması -->
+    <style name="YBSplashTheme.Dark" parent="Theme.AppCompat.NoActionBar">
+        <item name="android:windowBackground">@color/yb_status_bar_dark</item>
+        <item name="android:statusBarColor">@color/yb_status_bar_dark</item>
+        <item name="android:windowLightStatusBar">false</item>
+        <item name="android:windowFullscreen">false</item>
+        <item name="android:windowTranslucentNavigation">false</item>
+    </style>
+</resources>

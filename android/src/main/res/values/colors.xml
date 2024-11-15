@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="yb_primary">#3498DB</color>
+    <color name="yb_background">#FFFFFF</color>
+    <color name="yb_text">#FFFFFF</color>
+    <color name="yb_status_bar">#FFFFFF</color>
+    <color name="yb_status_bar_dark">#000000</color>
+</resources>
